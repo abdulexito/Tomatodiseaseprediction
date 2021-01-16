@@ -1,2 +1,5 @@
-# Tomatodiseaseprediction
-In this, i have trained a dnn model to get an accuracy of more than 85 percent to predict the tomato disease using the datasets downloaded from kaggle.
+# TomatoLeafdiseaseprediction
+Through the ages, pests and plant diseases have remained a constant threat to the quality and quantity of overall crop production. Hence, their timely and accurate identification could greatly extenuate the economic losses worldwide, also denigrating the harmful impact of fertilizers and pesticides on the environment. Once the correct disease is identified, conforming to the characteristic symptoms, proper control measures can be applied.
+The concept of Precision Agriculture necessitates the timely automation of dominant and crucial agricultural processes by applying the techniques of computational intelligence in the agriculture domain, Machine Learning and Computer Vision being the most researched and implemented technologies. The datasets have taken from the kaggle, train datasets of tomato affected leaves and test datasets have taken and applied.
+Softmax function, logistic regression and Image Recognition Model called InceptionV3 is used to attain the accuracy of the Machine Learning model.
+From tensorflow and keras all libraries have been imported and predicited according to it by deep learning neural networks
